@@ -1,5 +1,10 @@
 # usethis 1.1.0.9000
 
+## New helpers
+
+* `use_spell_check()` adds a unit test which automatically runs a spell check
+  during `CMD check`.
+
 # usethis 1.1.0
 
 ## New helpers

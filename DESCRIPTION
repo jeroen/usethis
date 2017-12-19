@@ -27,6 +27,7 @@ Imports:
     rmarkdown,
     rprojroot,
     rstudioapi,
+    spelling (>= 1.1),
     whisker,
     withr
 Suggests: 
